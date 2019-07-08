@@ -5,7 +5,7 @@ since it is very large file i can't abe to upload here
 
 just go to this site i have already put a link to it. 
 
-just click. htdocs and you will get all the code
+just click. htdocs and you will get all the codes there.
 
 
 https://mftp.infinityfree.net/#/c/_/epiz_24131559/eyJ0IjoiZnRwIiwiYyI6eyJwIjoiQzd3bER6V0l0VXJWIiwiaSI6IlwvIn19
