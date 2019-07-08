@@ -1,3 +1,6 @@
+sample code is give above.  live.php.  file.  but the whole project is linked on other free hosting site.
+
+
 since it is very large file i can't abe to upload here 
 
 just go to this site i have already put a link to it. 
