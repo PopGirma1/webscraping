@@ -1,5 +1,7 @@
 sample code is give above.  live.php.  file.  but the whole project is linked on other free hosting site.
 
+just i replaced livenews.php.  by live.php.  maybe you will not find live.php in the link below so don't confuse if i can 
+i will add the whole project to this site after i get broad band(fast connection ) till that 
 
 since it is very large file i can't abe to upload here 
 
