@@ -11,7 +11,7 @@ https://mftp.infinityfree.net/#/c/_/epiz_24131559/eyJ0IjoiZnRwIiwiYyI6eyJwIjoiQz
 also here there will be youtubelink how the project works and its user interface
 
 
-https://www.youtube.com/watch?v=Ha4UYNwVQ4U
+https://www.youtube.com/watch?v=gTEAnVpeo9g&feature=youtu.be
 
 
 
