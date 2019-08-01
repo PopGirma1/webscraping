@@ -12,11 +12,15 @@ just click. htdocs and you will get all the codes there.
 
 https://mftp.infinityfree.net/#/c/_/epiz_24131559/eyJ0IjoiZnRwIiwiYyI6eyJwIjoiQzd3bER6V0l0VXJWIiwiaSI6IlwvIn19
 
+but if you want the .zip file i already add it with name cop-2 so first download it and then unzip it you will get all the files there. 
+
 
 also here there will be youtubelink how the project works and its user interface
 
 
 https://www.youtube.com/watch?v=gTEAnVpeo9g&feature=youtu.be
+
+thanks!
 
 
 
