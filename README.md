@@ -25,8 +25,6 @@ thanks!
 
 
 
-Name Of Groups:
+Name :
 Girmay. Tadese atr/8714/09
-kalab amare. atr/0078/09
-ibrahim abas atr/0799/09
-Gadisa asfaw atr/4136/09
+
